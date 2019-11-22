@@ -1,8 +1,8 @@
 # Nested-Loops
 
-* Create a new Python file in this folder called **TriTable.py**.
+* Create a new Python file in this folder called **TriTable.py**
 
-* Write a program that uses nested for loops to create the following number pyramid.
+* Write a program that uses nested for loops to create the following number pyramid
 
 ```
 1
